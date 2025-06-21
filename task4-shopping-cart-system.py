@@ -22,15 +22,15 @@ cart = []
 def show_items():
     print("Available items:")
     for item, price in store.items():
-        print(f"{item} - ${price} Naira")
+        print(f"{item} - {price} Naira")
     print()
 
 def add_to_cart():
     item = input("Enter item name: ")
     if item in store:
         try:
-            qty = int(input("Enter quantity: "))
-            cart.append({"item": item, "quantity": qty, "price": store[item]})
+            quantity = int(input("Enter quantity: "))
+            cart.append({"item": item, "quantity": quantity, "price": store[item]})
             print("Added to cart.\n")
         except ValueError:
             print("Quantity must be a number.\n")
