@@ -45,8 +45,8 @@ def view_cart():
     for c in cart:
         subtotal = c["quantity"] * c["price"]
         total += subtotal
-        print(f"{c['item']} x {c['quantity']} = ${subtotal}")
-    print(f"Total: ${total}\n")
+        print(f"{c['item']} x {c['quantity']} = {subtotal} Naira")
+    print(f"Total: {total} Naira\n")
 
 def remove_item():
     name = input("Enter item to remove: ")
