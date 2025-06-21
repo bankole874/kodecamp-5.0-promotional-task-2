@@ -76,7 +76,7 @@ Book tickets for movies while tracking seat availability.
    ```
 4. Or if you want to integrate all into one menu, create a main menu and call the submenus from there.
 
-##💡 Requirements
+## 💡 Requirements
 Python 3.6+
 
 No external libraries needed
