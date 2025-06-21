@@ -83,6 +83,7 @@ No external libraries needed
 
 ## 📁 File Structure
 python-mini-projects/
+
 │
 ├── task1_student_management.py
 ├── task2_expense_tracker.py
