@@ -68,3 +68,28 @@ Book tickets for movies while tracking seat availability.
 1. Clone this repository:
    ```bash
    git clone https://github.com/bankole874/kodecamp-5.0-promotional-task-2/
+   ```
+2. Open any of the .py files in your editor.
+3. Run the desired task file:
+   ```bash
+   python task1_student_management.py
+   ```
+4. Or if you want to integrate all into one menu, create a main menu and call the submenus from there.
+
+##💡 Requirements
+Python 3.6+
+
+No external libraries needed
+
+## 📁 File Structure
+python-mini-projects/
+│
+├── task1_student_management.py
+├── task2_expense_tracker.py
+├── task3_calculator_with_history.py
+├── task4_shopping_cart.py
+├── task5_movie_ticket_booking.py
+└── README.md
+
+## 👨‍💻 Author
+Hammed Bankole
