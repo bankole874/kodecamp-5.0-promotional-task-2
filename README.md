@@ -81,15 +81,5 @@ Python 3.6+
 
 No external libraries needed
 
-## 📁 File Structure
-python-mini-projects/
-
-- ├── task1_student_management.py
-- ├── task2_expense_tracker.py
-- ├── task3_calculator_with_history.py
-- ├── task4_shopping_cart.py
-- ├── task5_movie_ticket_booking.py
-- └── README.md
-
 ## 👨‍💻 Author
 Hammed Bankole
